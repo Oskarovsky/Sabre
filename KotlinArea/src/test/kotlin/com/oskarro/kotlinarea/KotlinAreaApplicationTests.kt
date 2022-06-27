@@ -1,13 +1,13 @@
-package com.oskarro.interview
+package com.oskarro.kotlinarea
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class InterviewApplicationTests() {
+class KotlinAreaApplicationTests {
 
     @Test
-    fun `test your code, man!`() {
+    fun contextLoads() {
     }
 
 }

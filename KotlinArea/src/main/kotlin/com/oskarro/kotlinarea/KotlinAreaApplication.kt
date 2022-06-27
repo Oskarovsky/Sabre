@@ -1,11 +1,11 @@
-package com.oskarro.interview
+package com.oskarro.kotlinarea
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class InterviewApplication
+class KotlinAreaApplication
 
 fun main(args: Array<String>) {
-    runApplication<InterviewApplication>(*args)
+    runApplication<KotlinAreaApplication>(*args)
 }
